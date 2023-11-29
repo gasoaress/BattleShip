@@ -52,5 +52,5 @@ O desenho de elementos gráficos, como texturas de embarcações, é feito com b
 # Controle de Música:
 O código utiliza a biblioteca Raylib para carregar e reproduzir músicas durante diferentes fases do jogo.
 
-#Liberação de Recursos:
+# Liberação de Recursos:
 No final, todas as músicas são descarregadas e o dispositivo de áudio é fechado antes de encerrar o programa.
