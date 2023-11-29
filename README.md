@@ -1,6 +1,9 @@
 # BattleShip:
 O jogo BattleShip desenvolvido em C é uma releitura moderna e gráfica do clássico jogo de batalha naval. Utilizando a biblioteca Raylib, oferece uma experiência interativa e visualmente atraente. O código é estruturado de forma clara, incorporando elementos como matriz, texturas e música para criar uma dinâmica envolvente. As diferentes telas proporcionam uma transição suave entre as fases do jogo, enquanto a lógica de interação por cliques do mouse adiciona um componente estratégico. Em resumo, o BattleShip representa uma implementação bem elaborada que combina a nostalgia do jogo original com recursos modernos de programação.
 
+# Autores: 
+Jogo desenvolvido no período de 2023 por Gabriel Leite Soares Ramos && Luis Otavio Albergoni Santos, alunos do Curso de Ciência da Computação da PUC MINAS de Poços de Caldas.
+
 # Estrutura Geral:
 O código em C desenvolve um jogo baseado no clássico jogo de batalha naval (Battleship), utilizando a biblioteca externa Raylib para gráficos e funcionalidades de jogo. Abaixo está uma descrição detalhada da estrutura geral do código:
 
